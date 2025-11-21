@@ -21,7 +21,7 @@ A fully functional MISP 2.5.26 instance running in a VirtualBox Ubuntu 24.04 VM 
 
 ### Screenshots
 
-![Setting Server Static IP](screenshots/01_netplan_static_ip_config.png)
+![Setting Server Static IP](screenshots/01_netplan_staticip_config.png)
 ![Successful SSH Into Server](screenshots/02_ssh_success.png)
 ![MISP CLI Install](screenshots/03_misp_install.png)
 ![Completed Install](screenshots/04_misp_install_complete.png)
