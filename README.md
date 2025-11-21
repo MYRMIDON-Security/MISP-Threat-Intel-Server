@@ -4,7 +4,7 @@ A fully functional MISP 2.5.26 instance running in a VirtualBox Ubuntu 24.04 VM 
 
 For a live demo, DM me on LinkedIn and we'll get you set up with credentials to access and read TI feeds.
 
-**Live URL**: https://misp.myrmidon-security.dev  
+**Live URL**: https://misp.myrmidon-security.dev  (if you get a dead page, it means the tunnel is currently off)
 **Local URL**: http://127.0.0.1:8080 (on the host laptop only)
 
 ## Current Working Configuration
@@ -24,10 +24,17 @@ For a live demo, DM me on LinkedIn and we'll get you set up with credentials to 
 ### Screenshots
 
 ![Setting Server Static IP](screenshots/01_netplan_staticip_config.png)
+
 ![Successful SSH Into Server](screenshots/02_ssh_success.png)
+
 ![MISP CLI Install](screenshots/03_misp_install.png)
+
 ![Completed Install](screenshots/04_misp_install_complete.png)
+
 ![Events Feed Setup](screenshots/05_misp_feed_setup.png)
+
 ![IOC Events Feed](screenshots/06_misp_events.png)
+
 ![Console Localhost Login](screenshots/07_misp_local_login.png)
+
 ![Console Remote Login](screenshots/08_misp_remote_login.png)
