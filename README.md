@@ -1,6 +1,7 @@
 # MISP Threat Intel Platform – Remote Access Setup (2025)
 
-A fully functional MISP 2.5.26 instance running in a VirtualBox Ubuntu 24.04 VM on a Windows 11 host (Asus Tesseract), exposed globally via Cloudflare Tunnel.
+A fully functional MISP 2.5.26 instance running in a VirtualBox Ubuntu 24.04 VM on a Windows 11 host (aka my old Asus laptop), globally accessible via Cloudflare Tunnel.
+For a live demo, DM me on LinkedIn and we'll get you set up with credentials to access and read TI feeds.
 
 **Live URL**: https://misp.myrmidon-security.dev  
 **Local URL**: http://127.0.0.1:8080 (on the host laptop only)
