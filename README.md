@@ -23,8 +23,6 @@ For a live demo, DM me on LinkedIn and we'll get you set up with credentials to 
 
 ### Screenshots
 
-![Setting Server Static IP](screenshots/01_netplan_staticip_config.png)
-
 ![Successful SSH Into Server](screenshots/02_ssh_success.png)
 
 ![MISP CLI Install](screenshots/03_misp_install.png)
