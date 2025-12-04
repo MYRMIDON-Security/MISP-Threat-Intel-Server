@@ -14,7 +14,7 @@ For a live demo, DM me on LinkedIn and we'll get you set up with credentials to 
 - NAT networking with port forwarding:
   - Host 2222 → Guest 22 (SSH)
   - Host 8080 → Guest 80 (MISP web)
-- Static NAT IP: 10.0.2.15/24
+- SSH into server from remote hosts
 
 ### MISP
 - Version: 2.5.26
