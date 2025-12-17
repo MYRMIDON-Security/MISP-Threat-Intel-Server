@@ -5,6 +5,7 @@ A fully functional MISP 2.5.26 instance running in a VirtualBox Ubuntu 24.04 VM 
 For a live demo, DM me on LinkedIn and we'll get you set up with credentials to access and read TI feeds.
 
 **Live URL**: https://misp.myrmidon-security.dev  (if you get a dead page, it means the tunnel is currently off)
+
 **Local URL**: http://127.0.0.1:8080 (on the host laptop only)
 
 ## Current Working Configuration
